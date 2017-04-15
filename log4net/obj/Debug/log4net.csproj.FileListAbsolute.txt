@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\bin\log4net.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\bin\log4net.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\bin\log4net.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\bin\log4net.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\obj\Debug\log4net.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\log4net\log4net\obj\Debug\log4net.pdb
